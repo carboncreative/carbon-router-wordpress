@@ -2,6 +2,8 @@
 
 namespace Carbon\Router;
 
+use Carbon\Router\Providor\Klein;
+
 class RoutingFactory
 {
     public static function getRouter($priority = 0)
