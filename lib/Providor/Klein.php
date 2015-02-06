@@ -46,6 +46,6 @@ class Klein implements Router
      */
     public function dispatch()
     {
-        $this->klein->dispatch();
+        $this->klein->dispatch(null, null, false);
     }
 }
