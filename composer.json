@@ -4,6 +4,7 @@
   "keywords": ["router", "routing", "klein", "wordpress"],
   "homepage": "https://github.com/carboncreative/carbon-router-wordpress",
   "license": "MIT",
+  "version": "0.0.1-alpha
   "authors": [
     {
       "name": "Tom Moitié",
