@@ -1,0 +1,22 @@
+{
+  "name": "carboncreative/carbon-router",
+  "description": "A router for WordPress themes that intercepts requests and reinterprets them",
+  "keywords": ["router", "routing", "klein", "wordpress"],
+  "homepage": "https://github.com/carboncreative/carbon-router-wordpress",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tom Moitié",
+      "email": "tomm@carboncreative.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "klein/klein": "~2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Carbon\\Router\\": "lib"
+    }
+  }
+}
