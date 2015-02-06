@@ -1,5 +1,5 @@
 {
-  "name": "carboncreative/carbon-router",
+  "name": "carboncreative/carbon-router-wordpress",
   "description": "A router for WordPress themes that intercepts requests and reinterprets them",
   "keywords": ["router", "routing", "klein", "wordpress"],
   "homepage": "https://github.com/carboncreative/carbon-router-wordpress",
